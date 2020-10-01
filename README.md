@@ -10,5 +10,6 @@ Screenshot
 
 
  <a href="https://anandiiitbh.github.io/SIH20-CAPTCHA-alternate-solution-for-visually-impaired/">index.html</a> is just an sample view  ..   
+ Below is the link.
  
  sample view-->https://anandiiitbh.github.io/SIH20-CAPTCHA-alternate-solution-for-visually-impaired/
